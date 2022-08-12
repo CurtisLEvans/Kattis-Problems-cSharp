@@ -1,4 +1,4 @@
-﻿//Curtis Evans - Week 2
+﻿//Curtis Evans 
 //Stuck In A Time Loop
 
 using System;
