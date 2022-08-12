@@ -1,4 +1,4 @@
-﻿//Curtis Evans - Week 3
+﻿//Curtis Evans 
 //Bela
 
 using System;
